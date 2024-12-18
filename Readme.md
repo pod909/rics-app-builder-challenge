@@ -7,5 +7,5 @@ no human in the loop.
 
 As well as the application the build should produce automated testing that confirms that each of the acceptance criteria has been delivered.
 
-The application and testing should be locally be deployable as a self contained Docker container.
+The application and testing should be locally deployable as a self contained Docker container.
 
